@@ -1,7 +1,9 @@
-Nome: Sheila Nery
-Email: sheila@gmail.com
-
-Sobre mim: 
-
-Gosto muito de ver como a tecnologia pode ajudar ou resolver problemas de forma rápida e precisa.
-Amo conhecer novas pessoas, lugares e culturas. 
+git branch (nome da branch) - criação de nova branch 
+git checkout (nome da branch) 
+git branch 
+git status 
+git add . 
+git commit -m "add nova branch" 
+git status 
+git push 
+git push --set-upstream origin (nome da branch)
