@@ -1,0 +1,4 @@
+Modifique o seu arquivo.txt e seguida realize os procedimentos de versionamento padrão.
+git add .
+git commit -m "alterando meu arquivo original"
+git push --set-upstream origin sua-branch
