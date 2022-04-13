@@ -9,3 +9,7 @@ R: Moro no Rio de Janeiro.
 
 Você trabalha na MJV? 
 R:Sim, estou a 3 meses iniciando minha carreira de Dev Java Junior.
+
+Qual o tipo de desenvolvedor que você mais se idêntifica? (FullStack, Back-End, Front-end etc....)
+
+O que você mais gosta de fazer no seu tempo livre, seu hobbie favorito?
