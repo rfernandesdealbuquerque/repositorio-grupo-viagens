@@ -7,12 +7,11 @@ Aqui estarão todos os projetos desenvolvidos com o Grupo.
 ## Autores
 
 - [@KaikyScript](https://www.github.com/KaikyScript)
-- [@rodrigoflu](https://www.github.com/sheilansn)
+- [@rodrigoflu](https://www.github.com/rodrigoflu)
 - [@leiasouza](https://www.github.com/leiasouzat)
 - [@aurimartins](https://www.github.com/aurimartins)
 - [@FERNANDAMSS](https://www.github.com/FERNANDAMSS)
-- [@sheilansn](https://www.github.com/KaikyScript)
-- [@silvaedson](https://www.github.com/KaikyScript)
+- [@sheilansn](https://www.github.com/sheilansn)
 - [@Talita-Rocha](https://www.github.com/Talita-Rocha)
 
 
