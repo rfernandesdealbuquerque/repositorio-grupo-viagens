@@ -5,3 +5,11 @@ Sobre mim:
 
 Gosto muito de ver como a tecnologia pode ajudar ou resolver problemas de forma rápida e precisa.
 Amo conhecer novas pessoas, lugares e culturas. 
+
+Pergunta 1:
+
+Oi Sheila, Rodrigo aqui, voce eh de onde?
+
+Pergunta 2:
+
+Porque decidiu estudar JAVA? 
