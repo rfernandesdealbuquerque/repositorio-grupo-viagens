@@ -3,6 +3,9 @@ EMAIL.: AURIMSJR@GMAIL.COM
 
 SOBRE MIM: 
 	TENHO 35 ANOS, GOSTO DE MÚSICA, NA VERDADE SOU MÚSICO, APAIXONADO POR TECNOLOGIA E ATUALMENTE ESTOU APRENDENDO JAVA.
+
 Onde você mora?
+R: Moro no Rio de Janeiro.
 
 Você trabalha na MJV? 
+R:Sim, estou a 3 meses iniciando minha carreira de Dev Java Junior.
