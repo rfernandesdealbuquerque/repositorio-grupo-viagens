@@ -4,6 +4,8 @@ Sobre: Gosto de esportes, leitura, ciencia e aquarios.
 
 [PERGUNTA 1]
 Qual o seu hobby favorito, do que mais gosta de fazer no seu tempo livre?
+No meu tempo livre, o que eu mais gosto de fazer eh exercicio fisico e estudar.
 
 [PERGUNTA 2]
 Qual o tipo de desenvolvedor que você mais se idêntifica? (FullStack, Back-End, Front-end etc....)
+Ainda nao sei... Mas acredito que FullStack, pois gosto de entender as coisas de forma integral. 
