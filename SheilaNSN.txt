@@ -13,3 +13,10 @@ Oi Sheila, Rodrigo aqui, voce eh de onde?
 Pergunta 2:
 
 Porque decidiu estudar JAVA? 
+
+[PERGUNTA 1 - Talita]
+Quantos aquários você têm?
+
+
+[PERGUNTA 2 - Talita]
+Quais peixes têm nele?
