@@ -1,3 +1,7 @@
 Fernanda Machado
 
+<<<<<<< Updated upstream
 Amo viajar em familia
+=======
+Amo Viajar em familia
+>>>>>>> Stashed changes
