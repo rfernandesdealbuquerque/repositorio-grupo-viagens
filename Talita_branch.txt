@@ -4,3 +4,5 @@ git commit -m "alterando meu arquivo original"
 git push --set-upstream origin sua-branch
 
 Porque decidiu estudar JAVA? 
+
+Precisava direcionar meu aprendizado em alguma linguagem. Java estou vendo na faculdade. Daí, decidi seguir nela mesmo. 
