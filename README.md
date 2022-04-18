@@ -64,3 +64,7 @@ Quando uma classe wrapper é criada, há a criação de um novo campo no qual ar
 ![ExercicioWrapper](https://user-images.githubusercontent.com/102567706/163882550-ccf6d056-0065-46da-afd7-c37c5c4e7f9e.png)
 
 
+## Autor Readme
+
+- [@KaikyScript](https://www.github.com/KaikyScript)
+
